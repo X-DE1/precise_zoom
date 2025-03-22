@@ -1,14 +1,8 @@
 # Precise zoom
 
-It adds a zoom command.
-
-For zoom write:
+Adds a command to specify how much you zoom with Z and you can now zoom if you have fly or zoom privileges.
 <br>
 /zoom number
-
-For disable zoom write:
-<br>
-/zoom
 
 ## Installation
 
